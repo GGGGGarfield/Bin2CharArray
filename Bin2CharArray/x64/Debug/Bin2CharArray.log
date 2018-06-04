@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Bin2CharArray.cpp
+e:\project\bin2chararray\bin2chararray\bin2chararray.cpp(73): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+  Bin2CharArray.vcxproj -> E:\project\Bin2CharArray\x64\Debug\Bin2CharArray.exe
